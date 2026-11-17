@@ -24698,12 +24698,24 @@ PrefabInstance:
       value: Redish Fog
       objectReference: {fileID: 0}
     - target: {fileID: 9025435444988080515, guid: d4bacdf68b0bedb43a125e12e5822695, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 9.3813
+      objectReference: {fileID: 0}
+    - target: {fileID: 9025435444988080515, guid: d4bacdf68b0bedb43a125e12e5822695, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9.3813
+      objectReference: {fileID: 0}
+    - target: {fileID: 9025435444988080515, guid: d4bacdf68b0bedb43a125e12e5822695, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 9.3813
+      objectReference: {fileID: 0}
+    - target: {fileID: 9025435444988080515, guid: d4bacdf68b0bedb43a125e12e5822695, type: 3}
       propertyPath: m_LocalPosition.x
       value: -114.136215
       objectReference: {fileID: 0}
     - target: {fileID: 9025435444988080515, guid: d4bacdf68b0bedb43a125e12e5822695, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 29.068295
+      value: 19.5
       objectReference: {fileID: 0}
     - target: {fileID: 9025435444988080515, guid: d4bacdf68b0bedb43a125e12e5822695, type: 3}
       propertyPath: m_LocalPosition.z
