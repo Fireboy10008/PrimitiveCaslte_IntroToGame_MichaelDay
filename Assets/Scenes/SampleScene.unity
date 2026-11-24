@@ -10167,7 +10167,7 @@ GameObject:
   - component: {fileID: 492238440}
   - component: {fileID: 492238442}
   m_Layer: 0
-  m_Name: Scrying Eye
+  m_Name: Scrying Eye timeline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
